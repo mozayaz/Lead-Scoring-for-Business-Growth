@@ -45,17 +45,24 @@ Given the high volume of incoming leads, the sales team struggles to effectively
 The objective of this analysis is to develop a Lead Scoring model that can identify and prioritize leads with a high probability of conversion, enabling the sales team to focus on the most promising prospects. This analysis aims to:
 
 ✅ Increase the lead conversion rate from 30% to the target of 80% set by the sales team.
+
 ✅ Optimize the allocation of sales team resources, ensuring they concentrate on high-potential leads (those with a high lead score) rather than spending time on low-quality prospects.
+
 ✅ Enhance marketing efficiency by providing deeper insights into potential customers' behavioral patterns, allowing for more targeted and effective marketing strategies.
+
 ✅ Determine the probability score for each lead, enabling more precise and data-driven business decision-making.
 
 ## Key Questions
 To achieve the objectives of this analysis, several key questions need to be addressed in the Lead Scoring process:
 
 🔹 What factors influence a lead's likelihood of conversion?
+
 🔹 What behavioral patterns do high-converting customers exhibit?
+
 🔹 Do specific attributes—such as lead source, visit duration, or website engagement—contribute to conversion probability?
+
 🔹 How can predictive modeling provide an accurate lead score based on past conversion patterns?
+
 🔹 What are the best strategies for the sales team to leverage Lead Scoring to improve efficiency?
 
 ## Data Findings:
